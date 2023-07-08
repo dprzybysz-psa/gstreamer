@@ -2,7 +2,7 @@
 directory=cairo
 url=https://gitlab.freedesktop.org/cairo/cairo.git
 depth=1
-revision=1.17.6
+revision=1.17.8
 
 [provide]
 cairo = libcairo_dep
