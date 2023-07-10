@@ -1,13 +1,13 @@
 set PRO_MESON_DIR=C:\Users\user\AppData\Roaming\Python\Python311\Scripts\;
 set PRO_NINJA_DIR=C:\Users\user\AppData\Roaming\Python\Python311\Scripts\;
-set PRO_MINGW_DIR=P:\Qt\Tools\mingw810_64\bin\;
+set PRO_MINGW_DIR=P:\Qt\Tools\mingw1120_64\bin\;
 set PRO_PKGCONFIG_DIR=p:\lib\pkgconfig;
 set PRO_PKG_CONFIG_PATH=p:\lib\x265\lib\pkgconfig;
 set PRO_GIT_DIR=C:\Program Files\Git\cmd;
 set PRO_PYTHON_DIR=C:\Program Files\Python311;
 
 set PRO_GST_VERSION=1.22.4
-set PRO_GST_DESCRIPTION=GPL release for qt5
+set PRO_GST_DESCRIPTION=GPL release for qt6
 
 set PRO_INSTALL_PREFIX=%cd%\pro_install
 set PRO_LOG=%PRO_INSTALL_PREFIX%\pro_gstreamer.txt
