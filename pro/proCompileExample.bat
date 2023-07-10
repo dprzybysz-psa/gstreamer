@@ -2,6 +2,7 @@ set PRO_MESON_DIR=c:\Users\user\AppData\Roaming\Python\Python311\Scripts\;
 set PRO_NINJA_DIR=c:\Users\user\AppData\Roaming\Python\Python311\Scripts\;
 set PRO_MINGW_DIR=p:\Qt\Tools\mingw810_64\bin\;
 set PRO_GIT_DIR=C:\Program Files\Git\cmd;
+set PRO_PYTHON_DIR=C:\Program Files\Python311;
 
 set PRO_GST_VERSION=1.22.4
 set PRO_GST_DESCRIPTION=Default release for qt5
